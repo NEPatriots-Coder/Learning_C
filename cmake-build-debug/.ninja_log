@@ -1,0 +1,10 @@
+# ninja log v5
+10	105	7392452424740994	CMakeFiles/Learning_C.dir/Basic_Programs/01_Using_if.c.obj	695b2ff98c2269f6
+94	270	7392461996956081	Using_switch.exe	ba7b78d4dccb419f
+4	102	7392452424711040	CMakeFiles/Learning_C.dir/Basic_Programs/02_Using_switch.c.obj	2f6f85d65cd78edc
+2	94	7392488728930115	CMakeFiles/array.dir/Basic_Programs/03_array.c.obj	244804edfcd28620
+3	453	7392984391023878	build.ninja	25f469a15b0bb328
+35	560	7392957838229453	CMakeFiles/array_student.dir/Basic_Programs/04_array_student.c.obj	9e047a7b2ab15bff
+0	93	7392461995490748	CMakeFiles/Using_switch.dir/Basic_Programs/02_Using_switch.c.obj	c28fe5b88e429fd4
+95	228	7392488730055277	array.exe	a0f10183aa290660
+563	1023	7392957842503038	array_student.exe	1493e8083930d3b6

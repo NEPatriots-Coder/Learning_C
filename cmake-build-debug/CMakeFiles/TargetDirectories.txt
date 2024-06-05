@@ -1,0 +1,7 @@
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/Using_if.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/Using_switch.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/array.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/array_student.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/clock.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
