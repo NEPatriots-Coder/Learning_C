@@ -1,0 +1,249 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Learning_C",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01globalVSlocalvariable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01globalVSlocalvariable-Debug-bdbe5f4246b75d027c82.json",
+					"name" : "01globalVSlocalvariable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02globalVSlocalvariable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02globalVSlocalvariable-Debug-963209c046da9f40b324.json",
+					"name" : "02globalVSlocalvariable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_array-Debug-2c5918e5d548c0276075.json",
+					"name" : "03_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_Conditions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_Conditions-Debug-c694db45e7a3121584b5.json",
+					"name" : "11_Conditions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_moreArrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_moreArrays-Debug-1ea1adca513704a8db53.json",
+					"name" : "11_moreArrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_usingStrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_usingStrings-Debug-0c1e0e008a3a5cb55185.json",
+					"name" : "12_usingStrings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AND_logical_operator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AND_logical_operator-Debug-085a053b939086cb8003.json",
+					"name" : "AND_logical_operator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Using_if::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Using_if-Debug-cb4691a9bcacda12e6e9.json",
+					"name" : "Using_if",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Using_switch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Using_switch-Debug-6a001821756d69de9853.json",
+					"name" : "Using_switch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array-Debug-d74c5d96f40f12b0ea26.json",
+					"name" : "array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "array_student::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array_student-Debug-899f09f4ec5e188fd7ae.json",
+					"name" : "array_student",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculator_program::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculator_program-Debug-4c9cdcd43935e322c343.json",
+					"name" : "calculator_program",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cards::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cards-Debug-a41c74df7fe3f08fe7c3.json",
+					"name" : "cards",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "functionfun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-functionfun-Debug-d7bcc76b35ff72b5533e.json",
+					"name" : "functionfun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "globalVSlocalvariable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-globalVSlocalvariable-Debug-278f461ca0d26b5e0f0b.json",
+					"name" : "globalVSlocalvariable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hypotenuseCalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hypotenuseCalculator-Debug-568fedb1ee58138f61be.json",
+					"name" : "hypotenuseCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "if_statements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-if_statements-Debug-145f39cadad759a06a45.json",
+					"name" : "if_statements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loopyLoops::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loopyLoops-Debug-9567ddf75b39c618701a.json",
+					"name" : "loopyLoops",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moreArrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moreArrays-Debug-6c8267f608fb8de964e5.json",
+					"name" : "moreArrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numberFun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numberFun-Debug-3744429d348eb9e61e15.json",
+					"name" : "numberFun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "switch_statements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-switch_statements-Debug-90b6b26ed9ead2262b9d.json",
+					"name" : "switch_statements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "temperature_conversion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-temperature_conversion-Debug-208811948d9536b772c3.json",
+					"name" : "temperature_conversion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C/cmake-build-debug",
+		"source" : "C:/Users/lamarwells/OneDrive - Rasmussen, Inc/Programming/Learning_C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,29 +1,37 @@
-/*C Program to input 2-D array of size 3*5*/
-#include <stdio.h> // Include the standard input-output library
+#include <stdio.h>
+#include <stdlib.h>
+
 
 int main() {
-    int a[3][5]; // Declare a 2D array with 3 rows and 5 columns
-    int i, j;    // Declare loop variables
+    /* TODO: declare the 2D array grades here */
+    int grades[2][5];
+    float average;
+    int i;
+    int j;
 
-    // Prompt user to enter the elements of the array
-    printf("Enter the Elements:\n");
-    for (i = 0; i <= 2; i++) { // Loop through each row
-        for (j = 0; j <= 4; j++) { // Loop through each column in the current row
-            // Read an integer value from the user and store it in a[i][j]
-            scanf("%d", &a[i][j]);
-        }
+    grades[0][0] = 80;
+    grades[0][1] = 70;
+    grades[0][2] = 65;
+    grades[0][3] = 89;
+    grades[0][4] = 90;
+
+    grades[1][0] = 85;
+    grades[1][1] = 80;
+    grades[1][2] = 80;
+    grades[1][3] = 82;
+    grades[1][4] = 87;
+
+    /* TODO: complete the for loop with appropriate terminating conditions */
+    for (i = 0; i < 2; i++) {
+        average = 0;
+        for (j = 0; j < 5; j++)
+            average += grades[i][j];
+
+
+        /* TODO: compute the average marks for subject i */
+        average /= 5.0;
+        printf("The average marks obtained in subject %d is: %.2f\n", i, average);
     }
 
-    // Display the elements of the array
-    printf("Elements are : \n");
-    for (i = 0; i <= 2; i++) { // Loop through each row
-        for (j = 0; j <= 4; j++) { // Loop through each column in the current row
-            // Print the value stored in a[i][j]
-            printf("%d\t", a[i][j]);
-        }
-        printf("\n"); // Print a newline after each row
-    }
-
-    return 0; // Indicate that the program ended successfully
+    return 0;
 }
-
